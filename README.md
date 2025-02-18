@@ -1,7 +1,7 @@
 # 📖 Rubrica desktop-app
 
 ## 📌 Overview
-The **Rubrica** desktop-app is a Python-based desktop app that allows users to manage contacts. 
+**Rubrica** is a Python-based desktop app that allows users to manage contacts. 
 
 ## 🏗 Project Structure
 ```
@@ -19,6 +19,7 @@ The **Rubrica** desktop-app is a Python-based desktop app that allows users to m
 │   │── 📂 views/                  
 │   │   │── main_view.py           
 │   │   │── add_edit_view.py
+│   │── 📂 test/               # Pytests                  
 │   │── main.py                    # Entry point
 ```
 
