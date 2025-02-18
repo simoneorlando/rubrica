@@ -25,11 +25,14 @@ The **Rubrica** desktop-app is a Python-based desktop app that allows users to m
 ## 🛠️ Installation & Setup
 ### **Prerequisites**
 Ensure you have **Python 3.12** installed. Lowers versions of Python have not been tested.
+Tested on:
+  - Windows 10
+  - Linux
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/address-book.git
-cd address-book
+git clone https://github.com/simoneorlando/rubrica.git
+cd rubrica
 ```
 
 ### **2️⃣ Install Dependencies**
