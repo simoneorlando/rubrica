@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "turingrubrica"
+version = "1.0.0"
+description = "An address book desktop-app"
+authors = ["Simone Orlando <simoneorlando.cs@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+pytest = "^8.3.4"
+
+[tool.poetry.group.dev.dependencies]
+black = "^22.10.0"
+flake8 = "^5.0.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
